@@ -1,4 +1,5 @@
 {
+	"block.securitycraft.aaaaaa": "Advanced AAAAA",
 	"block.securitycraft.abcde": "Advanced BlockCD Emitter",
 	"block.securitycraft.alarm": "Alarm",
 	"block.securitycraft.ancient_debris_mine": "Antike Schrottmine",
@@ -31,7 +32,7 @@
 	"block.securitycraft.deepslate_lapis_mine": "Tiefenschiefer-Lapislazulierzmine",
 	"block.securitycraft.deepslate_mine": "Tiefenschiefermine",
 	"block.securitycraft.deepslate_redstone_mine": "Tiefenschiefer-Redstone-Erz-Mine",
-	"block.securitycraft.diamond_mine": "Diamond Ore Ore Ore Mine",
+	"block.securitycraft.diamond_mine": "Diamanterzmine-Diamanterzmine",
 	"block.securitycraft.dirt_mine": "Erdmine",
 	"block.securitycraft.display_case": "Vitrine",
 	"block.securitycraft.electrified_iron_fence": "Elektrischer Eisenzaun",
